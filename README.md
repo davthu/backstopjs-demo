@@ -1,2 +1,2 @@
 # backstopjs-demo
-Just another demo.
+A BackstopJS demo.

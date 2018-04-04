@@ -1,0 +1,21 @@
+{
+  "name": "backstopjs-demo",
+  "version": "1.0.0",
+  "description": "A BackstopJS demo",
+  "scripts": {
+    "backstop": "backstop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davthu/backstopjs-demo.git"
+  },
+  "author": "David Thunman <david.thunman@gmail.com> (https://github.com/davthu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davthu/backstopjs-demo/issues"
+  },
+  "homepage": "https://github.com/davthu/backstopjs-demo#readme",
+  "dependencies": {
+    "backstopjs": "^3.1.21"
+  }
+}
